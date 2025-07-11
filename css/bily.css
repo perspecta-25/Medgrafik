@@ -19,12 +19,7 @@ h2.post-title{
   font-family:'Times New Roman';
 }
 h1.vreme{
-  font-size: 35px;
-  font-weight: bold;
-  font-family: 'Times New Roman';
-}
-h2.prichina{
-  font-size: 26px;
+  font-size: 150px;
   font-weight: bold;
   font-family: 'Times New Roman';
 }
@@ -46,4 +41,11 @@ p.p11{
 .container-right {
   display: flex;
   justify-content: flex-end !important;
+}
+.h1 {
+  font-size: 150px;
+  font-weight: 300px;
+  font-family: 'Times New Roman'  !important;
+  color:white; 
+
 }

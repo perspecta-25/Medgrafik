@@ -8,8 +8,8 @@ require_once __DIR__ . "/common/header_end.php";
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="site-heading">
-                            <h1>Медицински график</h1>
-                            <span class="text bily">Спестете си времето и проверете закъснението</span>
+                            <h1>Моят доктор</h1>
+                            <span class="text bily">Запознайте се с местните ни лекари и си изберете подходящия за вас!</span>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@ require_once __DIR__ . "/common/header_end.php";
                                 </a>
                             </li>
                         </ul>
-                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2023</div>
+                        
                     </div>
                 </div>
             </div>

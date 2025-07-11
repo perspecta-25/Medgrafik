@@ -6,13 +6,12 @@ require_once __DIR__ . "/common/header_end.php";
     </head>
     <body>
         <!-- Page Header-->
-        <header class="masthead" style="background-image: url('assets/img/vreme3.jpg')">
+        <header class="masthead" style="background-image: url('assets/img/ekip.jpg')">
             <div class="container position-relative px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="post-heading">
-                            <h1 class="vreme"   >Времето е ценно и в повечето случаи - недостатъчно.</h1 >
-                            <h2 class="prichina" >Поради тази причина, целта ни е да помагаме на хората, ценящи времето си.</h2>
+                            <h1 class="vreme" style= font-size:80px >Открий своя лекар в града</h1 >
                             <span class="meta">
                                 
                             </span>
@@ -26,17 +25,13 @@ require_once __DIR__ . "/common/header_end.php";
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
-                        <p class="p1"><strong>Винаги навреме с нашия медицински график!</strong> Платформата следи в реално време закъсненията на часовете и ти спестява безкрайното чакане пред кабинета.</p>
-                        <p class="p2"><strong>Забрави за губенето на време в чакалнята.</strong> Сайтът ни те уведомява, ако прегледът ти се забавя – така планираш деня си по-умно.</p>
-                        <p class="p3"><strong>По-малко чакане, повече контрол.</strong> Нашият сайт ти показва кога наистина ще дойде твоят ред – без изненади и без нерви.
+                        <p class="p1" style=font-size:24px;font-family:TimesNewRoman><strong style=font-style:italic;font-size:28px>За новодошлите в града: </strong>  Лесен начин да откриете личен или специализиран лекар, ако сте нови в района и не знаете към кого да се обърнете.</p>
+                        <p class="p2" style=font-size:24px;font-family:TimesNewRoman><strong style=font-style:italic;font-size:28px>Актуална и проверена информация: </strong> Профили на лекари с ключови данни – специалност, местоположение, контакти и работно време, за да направите информиран избор.</p>
+                        <p class="p3" style=font-size:24px;font-family:TimesNewRoman><strong style=font-style:italic;font-size:28px>Насока при избора на лекар: </strong> Помагаме ви да намерите точния специалист според вашите нужди – независимо дали търсите педиатър, кардиолог или общопрактикуващ лекар.</p>
+                        <p class="p1" style=font-size:24px;font-family:TimesNewRoman><strong style=font-style:italic;font-size:28px>Подобряване на достъпа до здравеопазване: </strong> Платформата улеснява връзката между пациентите и медицинските специалисти в града, като спестява време и усилия.</p>
+                        <h2 class="section-heading" style=font-family:TimesNewRoman;font-size:40px;font-style:italic>Как работи?</h2>
+                        <p>Сайтът работи като лесна за ползване платформа, в която можете бързо да откриете лекари по специалност, име или местоположение. Всеки лекарски профил съдържа основна информация – специалност, адрес, работно време и контакт. Потребителите могат да сравняват лекари, да се ориентират по района и да получат насока кой специалист е най-подходящ за техните нужди. <strong style=font-style:italic;font-size:24px;font-family:TimesNewRoman>Без регистрация и напълно безплатно – всичко необходимо е само на няколко клика разстояние.</strong></p>
 
-                        <h2 class="section-heading">Как работи?</h2>
-                        <p>Сайтът показва закъснението на часовете в реално време, ако има такова, съответно хората разполагат със повече собода за организация на своето време.<strong> Системата е максимално точна, тъй като данните са въвеждани лично от личния ви лекар.</strong></p>
-
-                            Placeholder text by
-                            <a href="http://spaceipsum.com/">Space Ipsum</a>
-                            &middot; Images by
-                            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>
                         </p>
                     </div>
                 </div>
@@ -73,7 +68,7 @@ require_once __DIR__ . "/common/header_end.php";
                                 </a>
                             </li>
                         </ul>
-                        <div class="small text-center text-muted fst-italic">Copyright &copy; Your Website 2023</div>
+                       
                     </div>
                 </div>
             </div>

@@ -30,6 +30,7 @@ require_once __DIR__ . "/common/header_end.php";
                             <!-- To make this form functional, sign up at-->
                             <!-- https://startbootstrap.com/solution/contact-forms-->
                             <!-- to get an API token!-->
+                             <div id="response-message" style="display:none;"></>
                             <form id="contactForm" action="submit.php" method="POST">
                                 <div class="form-floating">
                                     <input class="form-control" id="name" name="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />

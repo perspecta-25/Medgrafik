@@ -8,8 +8,8 @@ require_once __DIR__ . "/common/header_end.php";
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="page-heading">
-                            <h1>Свържете се с нас</h1>
-                            <span class="subheading">При възникнали въпроси винаги се чувствайте свободни, да се свържете с нас!</span>
+                            <h1 style=font-family:TimesNewRoman;font-size:80px>Свържете се с нас</h1>
+                            <span class="subheading" style=font-family:TimesNewRoman;font-size:30px>При възникнали въпроси винаги се чувствайте свободни, да се свържете с нас!</span>
                         </div>
                     </div>
                 </div>
@@ -21,7 +21,7 @@ require_once __DIR__ . "/common/header_end.php";
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
-                        <p>Тук може да попълните даните си и да изпратите въпросите си. Обещаваме бърза обратна връзка!</p>
+                        <p style=family-font:TimesNewRoman;font-size:24px>Тук може да попълните даните си и да изпратите въпросите си. Обещаваме бърза обратна връзка!</p>
                         <div class="my-5">
                             <!-- * * * * * * * * * * * * * * *-->
                             <!-- * * SB Forms Contact Form * *-->

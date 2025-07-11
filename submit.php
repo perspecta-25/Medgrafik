@@ -14,7 +14,7 @@ $message = $_POST['message'] ?? '';
 
 // 3. Connect to the database
 $host = 'localhost';
-$dbname = 'test_base';
+$dbname = 'medgrafik_db';
 $user = 'medgrafik_u';
 $pass = 'mQD7v7uvNJHWKYd';
 

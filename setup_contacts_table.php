@@ -6,13 +6,13 @@ ini_set('display_errors',
 
 // Database configuration
 $host = 'localhost';
-$dbname = 'test_base';
+$dbname = 'medgrafik_db';
 $user = 'medgrafik_u';
 $pass = 'mQD7v7uvNJHWKYd';
 
 
 // Connect to MySQL
-$conn = new mysqli($host, $user, $pass, $db);
+$conn = new mysqli($host, $user, $pass, $dbname);
 
 // Check connection
 if ($conn->connect_error) {
